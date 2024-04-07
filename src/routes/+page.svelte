@@ -26,6 +26,11 @@
 	</h2>
 
 	<Counter />
+
+	<div>
+		<w3m-button></w3m-button>
+		<w3m-network-button> </w3m-network-button>
+	</div>
 </section>
 
 <style>
